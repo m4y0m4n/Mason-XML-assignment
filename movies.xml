@@ -1,0 +1,52 @@
+<imdb>
+    <movies>
+        <movie>
+            <title>The Avengers</title>
+                <director> Joss Whedon</director>
+                    <characters>  
+                      <character>tony stark</character>
+                        <actors>
+                            <actor>robert downey jr</actor>
+                      <character> Captain America</character>
+                            <actor>chris evans</actor>
+                      <character>hulk</character>
+                            <actor>Mark ruffalo</actor>
+                        </actors>
+                    </characters>
+                <director>
+            </title>
+        </movie>
+         <movie>
+             <title>Avengers: Age of Ultron</Title>
+                <director>Joss Whedon</director>
+                  <characters>
+                     <character>tony stark</character>
+                        <actors>
+                            <actor>robert downey jr</actor>
+                      <character> Captain America</character>
+                            <actor>chris evans</actor>
+                      <character>hulk</character>
+                            <actor>Mark ruffalo</actor>
+                        </actors>
+                  </characters>
+                </director>
+             </title>
+         </movie>
+        <movie>
+            <title>Avengers: Endgame</title>
+                <director> Anthony Russo, Joe Russo</director>
+                    <characters>
+                     <character>tony stark</character>
+                        <actors>
+                            <actor>robert downey jr</actor>
+                      <character> Captain America</character>
+                            <actor>chris evans</actor>
+                      <character>hulk</character>
+                            <actor>Mark ruffalo</actor>
+                        </actors>
+                    </characters>
+                </director>
+            </title>
+        </movie>
+    </movies>
+</imbd>
